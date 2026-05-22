@@ -37,6 +37,7 @@ akagi64.exe 61 c:\windows\system32\charmap.exe
 
 
 > **Note**: Since version 3.5.0, all previously "fixed" methods are considered obsolete and have been removed. If you need them, use [v3.2.x branch](https://github.com/hfiref0x/UACME/tree/v3.2.x).
+
 > **Note**: As of version 3.7.0, methods "fixed" between 3.5.0 and 3.7.0 have been removed from UACMe methods table. If you need them, use the [v3.6.x_plus branch](https://github.com/hfiref0x/UACME/tree/v3.6.x_plus) The code for these methods is still available in the current branch for historical purposes.
 
 <details>
